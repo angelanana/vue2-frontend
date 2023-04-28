@@ -1,4 +1,5 @@
 # vue2-frontend
+这是基于@vue-cli 5.0.0,webpack5生成的vue2项目，主要用于对接一个用nestJs框架写的后端项目。
 
 ## Project setup
 ```
